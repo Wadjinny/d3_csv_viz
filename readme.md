@@ -1,5 +1,5 @@
 # D3 Visualization: From CSV to Insights
-An extremely efficient tool for gaining insights directly from a CSV file without any need for processing.  
+An extremely efficient & interactive web tool for gaining insights directly from a CSV file without any need for preprocessing.  
 **Note:** This tool needs an internet connection to function correctly.
 
 ## Usage Instructions
